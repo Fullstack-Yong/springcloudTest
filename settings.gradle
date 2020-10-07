@@ -1,0 +1,13 @@
+rootProject.name = 'springcloudTest'
+include 'user'
+include 'good1'
+include 'eureka3000'
+include 'eureka3001'
+include 'eureka3002'
+include 'good2'
+include 'order1'
+include 'order2'
+include 'zuul'
+include 'zuul8004'
+include 'zuul8005'
+
